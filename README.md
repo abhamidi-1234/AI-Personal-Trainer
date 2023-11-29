@@ -1,7 +1,6 @@
 
 
-https://github.com/abhamidi-1234/AI-Personal-Trainer/assets/13187234/e97af46a-15fc-42ed-8877-dd4076682720
-
+https://github.com/abhamidi-1234/AI-Personal-Trainer/assets/13187234/ed97ffc6-8bde-49c6-b027-4bc11a387f85
 
 
 ## Introduction
