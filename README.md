@@ -1,8 +1,4 @@
 
-
-https://github.com/abhamidi-1234/AI-Personal-Trainer/assets/13187234/ed97ffc6-8bde-49c6-b027-4bc11a387f85
-
-
 ## Introduction
 In recent years, computer vision has become an integral part of various applications, ranging from facial recognition to object detection. One fascinating application of computer vision is in the realm of fitness, where it can be leveraged to create intelligent personal trainers. In this article, we delve into the technical details of a computer vision project that utilizes Google's MediaPipe library for pose detection and OpenCV for building an AI personal trainer capable of counting bicep curls, displaying the pose, and measuring the angle between the arms during each curl.
 
